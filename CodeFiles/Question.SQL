@@ -1,3 +1,4 @@
+-- Count penguins by species
 
 SELECT
   species AS PenguinSpecies,

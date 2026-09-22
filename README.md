@@ -97,13 +97,14 @@ cd ga-course
 Replace `YOUR_REPOSITORY_URL` with the URL of the GitHub repository.
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone YOUR_REPOSITORY_URL # https://github.com/Danilop88/DSB-MTN-Git-Starter
 ```
 
 Move into the cloned repository:
 
 ```bash
-cd unit01-starter
+cd DSB-MTN-GIT-Starter
+
 ```
 
 Check your location and files:
